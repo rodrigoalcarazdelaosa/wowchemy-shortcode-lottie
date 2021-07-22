@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/rodrigoalcarazdelaosa/wowchemy-shortcode-lottie
 
 go 1.15
